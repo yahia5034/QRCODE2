@@ -13,21 +13,21 @@ body p {
   font-size: 15px;
   color: hsl(216, 15%, 48%);
 }
-main {
+.container {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
   text-align: center;
-  height: 100%;
-  gap: 1rem;
+  padding-top: 15vh;
+}
+main {
+  height: 96vh;
 }
 section {
   background-color: hsl(0, 0%, 100%);
   padding: 1rem;
   border-radius: 10px;
   width: 20%;
-  height: 68%;
 }
 
 main h1 {
