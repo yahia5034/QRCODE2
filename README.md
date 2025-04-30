@@ -37,7 +37,6 @@ QR-Code-Component using HTML CSS
 
 ### What I learned
 
-
 ```css
 proud of this css and how to import a new font
 <style>
@@ -47,11 +46,9 @@ proud of this css and how to import a new font
 
 ### Continued development
 
-Focused on building the project from scratch using Pure CSS and using flex, 
+Focused on building the project from scratch using Pure CSS and using flex,
 Also focused on using semantic html.
-
 
 ## Author
 
-- Website - [yahia](https://www.your-site.com)
 - Frontend Mentor - [@yahia5034](https://www.frontendmentor.io/profile/yahia5034)
