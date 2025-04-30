@@ -21,12 +21,12 @@ QR-Code-Component using HTML CSS
 
 ### Screenshot
 
-./Screenshot.png
+![](./Screenshot.png)
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/yahia5034/QRCode)
-- Live Site URL: [live site URL](https://yahia5034.github.io/QRCODE2/)
+- Solution URL: [https://github.com/yahia5034/QRCode](https://github.com/yahia5034/QRCode)
+- Live Site URL: [https://yahia5034.github.io/QRCODE2](https://yahia5034.github.io/QRCODE2/)
 
 ### Built with
 
